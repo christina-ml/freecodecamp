@@ -14,7 +14,7 @@ First, you'll build a cat photo app to learn the basics of HTML and CSS. Later, 
 Finally, you'll learn how to make webpages that respond to different screen sizes by building a Twitter card with Flexbox, and a complex blog layout with CSS Grid.
 
 
-### Courses
+### Courses to Complete:
 - Basic HTML and HTML 5 (# of courses: 28)
 - Basic CSS (# of courses: 44)
 - Applied Visual Design (# of courses: 52)
